@@ -2,5 +2,4 @@
 Pick & Place robot UPH
 
 # Acknowledgement
-https://www.geeksforgeeks.org/python-opencv-gettrackbarpos-function/
-
+* [Link with more info with various formatting options](https://docs.github.com/en/github/writing-on-github "more info")
